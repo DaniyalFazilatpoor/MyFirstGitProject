@@ -1,1 +1,2 @@
 in this branch i did fastforward and in first branch i did non fastforward
+added this line for second commit in feature 2
